@@ -3,6 +3,8 @@ I'm Igor, computer science student at Universidade Federal da Bahia (UFBA).<br>
 I've worked with augmented reality developing in Unity, currently evolving a project for micrometereology data analysis in the metropolitan Salvador-BA region.<br>
 Currently looking for opportunities in the area of Data Science and still studying/evolving!
 
+- My main work these days have been done in the repositories: MATA54 and analise_dados_microambientias
+
 ## ✉️ Find me on:
 
 
