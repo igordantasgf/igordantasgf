@@ -3,9 +3,6 @@ I'm Igor, computer science student at Universidade Federal da Bahia (UFBA).<br>
 I've worked with augmented reality developing in Unity, currently evolving a project for micrometereology data analysis in the metropolitan Salvador-BA region.<br>
 Currently looking for opportunities as an intern
 
-### Skills:
-- Studying [Machine Learning in Python with Tensorflow](https://github.com/igordantasgf/MLPython_FreeCodeCamp), on FreeCodeCamp course
-- Studying [DevOps](https://github.com/igordantasgf/devOps) Tools
 
 ### Academy: 
 - Currently working on my [Research](https://github.com/igordantasgf/analise_dados_microambientais) - Salvador Metropolitan Region Micrometeorology 
