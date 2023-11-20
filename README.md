@@ -21,9 +21,12 @@ Currently looking for opportunities as an intern
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://www.inventicons.com/uploads/iconset/660/wm/512/data_analysis-12.png" alt="Matplotlib" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(2).png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(3).png" alt="Postgres" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(4).png" alt="Git" height="40" style="vertical-align:top; margin:4px">
