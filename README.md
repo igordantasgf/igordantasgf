@@ -6,8 +6,8 @@ Currently looking for opportunities as an intern
 
 ### Academy: 
 - Currently working on my [Research](https://github.com/igordantasgf/analise_dados_microambientais) - Salvador Metropolitan Region Micrometeorology 
-- Evolving some skills in Software Engineering, such as project patterns, principles, etc.
-- Evolving network skills, with containerized applications of client-server
+- Evolving some skills in Backend Programming, Data Science and Infrastructure.
+- Developing projects with Python(Flask, Spark), Docker and Data Science tools.
 
 ## ✉️ Find me on:
 
