@@ -30,3 +30,13 @@ Currently looking for opportunities as an intern
 <img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(2).png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(3).png" alt="Postgres" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(4).png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+
+<br />
+
+## 📓 Projects
+
+- Academic Research on **Micrometeorology Data Analysis** using Python (Pandas, Seaborn, Matplotlib, Numpy) - [Repository](https://github.com/igordantasgf/analise_dados_microambientais)
+- **RESTful API** Development using **Flask** (Python) and **PostgreSQL** with Vercel Deployment - [Repository](https://github.com/MATA63-UFBA-Gerenciamento-de-Labs/backEnd)
+- Kaggle Courses and Competition Codes about **Machine Learning**, **Feature Engineering** and **Exploratory Data Analysis** - [Repository](https://github.com/igordantasgf/Kaggle-Activities/tree/main)
+- DevOps (**Docker**) practicing codes (Compose, Swarm, Clusters) - [Repository](https://github.com/igordantasgf/devOps)
+- Algorithm Analysis and Project college course (Dynamic programming, search/sort methods, etc) - [Repository](https://github.com/igordantasgf/MATA52---APA)
