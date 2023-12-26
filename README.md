@@ -9,6 +9,7 @@ Currently looking for opportunities as an intern
 - Evolving some skills in Backend Programming, Data Science and Infrastructure.
 - Developing projects with Python(Flask, Spark), Docker and Data Science tools.
 
+<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -32,6 +33,7 @@ Currently looking for opportunities as an intern
 - DevOps (**Docker**) practicing codes (Compose, Swarm, Clusters) - [Repository](https://github.com/igordantasgf/devOps)
 - Algorithm Analysis and Project college course (Dynamic programming, search/sort methods, etc) - [Repository](https://github.com/igordantasgf/MATA52---APA)
 
+<br />
 
 ## ✉️ Find me on:
 
