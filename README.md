@@ -9,15 +9,6 @@ Currently looking for opportunities as an intern
 - Evolving some skills in Backend Programming, Data Science and Infrastructure.
 - Developing projects with Python(Flask, Spark), Docker and Data Science tools.
 
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://www.linkedin.com/in/igor-dantas-a288b518a" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="igordgf@ufba.br"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -40,3 +31,14 @@ Currently looking for opportunities as an intern
 - Kaggle Courses and Competition Codes about **Machine Learning**, **Feature Engineering** and **Exploratory Data Analysis** - [Repository](https://github.com/igordantasgf/Kaggle-Activities/tree/main)
 - DevOps (**Docker**) practicing codes (Compose, Swarm, Clusters) - [Repository](https://github.com/igordantasgf/devOps)
 - Algorithm Analysis and Project college course (Dynamic programming, search/sort methods, etc) - [Repository](https://github.com/igordantasgf/MATA52---APA)
+
+
+## ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/igor-dantas-a288b518a" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="igordgf@ufba.br"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
