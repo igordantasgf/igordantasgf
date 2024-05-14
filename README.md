@@ -1,7 +1,6 @@
 # Greetings!
 I'm Igor, computer science student at Universidade Federal da Bahia (UFBA).<br> 
 I've worked with augmented reality developing in Unity, currently evolving a project for micrometereology data analysis in the metropolitan Salvador-BA region.<br>
-Currently looking for opportunities as an intern
 
 
 ### Academy: 
