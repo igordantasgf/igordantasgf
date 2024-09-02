@@ -4,7 +4,7 @@ I've worked with augmented reality developing in Unity, currently evolving a pro
 
 
 ### Academy: 
-- Recently my [Research](https://github.com/igordantasgf/analise_dados_microambientais) in **Salvador Metropolitan Region Micrometeorology**
+- My [Research](https://github.com/igordantasgf/analise_dados_microambientais) on **Salvador Metropolitan Region Micrometeorology**
 - Evolving some skills in Backend Programming, Data Science and Infrastructure.
 - Developing projects with Python(Flask, Spark), Docker and Data Science tools.
 
