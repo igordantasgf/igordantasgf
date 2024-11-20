@@ -22,6 +22,9 @@ I've worked with augmented reality developing in Unity, currently evolving a pro
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/igordantasgf/igordantasgf/blob/main/images/pngegg%20(4).png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 
 <br />
 
